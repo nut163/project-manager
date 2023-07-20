@@ -1,0 +1,72 @@
+/* Responsive CSS for MakeItHappen.io */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    /* Your styles here */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    /* Your styles here */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    /* Your styles here */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    /* Your styles here */
+}
+
+/* Specific Component Styles */
+
+/* Landing Page */
+@media (max-width: 768px) {
+    .landing-page-banner {
+        /* Your styles here */
+    }
+}
+
+/* Account Management */
+@media (max-width: 768px) {
+    .account-management {
+        /* Your styles here */
+    }
+}
+
+/* Project Browser */
+@media (max-width: 768px) {
+    .project-browser {
+        /* Your styles here */
+    }
+}
+
+/* Goal Setting */
+@media (max-width: 768px) {
+    .goal-setting {
+        /* Your styles here */
+    }
+}
+
+/* Duty Manager */
+@media (max-width: 768px) {
+    .duty-manager {
+        /* Your styles here */
+    }
+}
+
+/* Description Editor */
+@media (max-width: 768px) {
+    .description-editor {
+        /* Your styles here */
+    }
+}
+
+/* Contact Us */
+@media (max-width: 768px) {
+    .contact-us {
+        /* Your styles here */
+    }
+}
